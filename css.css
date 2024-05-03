@@ -102,6 +102,7 @@ button{
 label{
     display:flex;
     gap:10px;
+    align-items: center;
 }
 .check{
     margin-left:20px;
