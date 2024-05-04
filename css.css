@@ -174,3 +174,9 @@ a{
         display:none;
     }
 }
+@media (max-height: 650px) {
+    footer {
+       display:none;
+    }
+}
+
